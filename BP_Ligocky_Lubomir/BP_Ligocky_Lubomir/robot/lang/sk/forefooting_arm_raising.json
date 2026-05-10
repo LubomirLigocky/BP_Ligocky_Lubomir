@@ -1,0 +1,15 @@
+{
+  "on_start": {
+    "default": "Začíname cvičiť prednožovaňie a zdvíhaňie rúk."
+  },
+  "on_end": {
+    "default": "Koniec cvičenia, Pripravíme sa na ďalší cvik.",
+    "after_termination": "Koniec cviku prednožovaňia a zdvíhaňia rúk."
+  },
+  "on_warning": {
+    "default": "Skús lepšie upažiť."
+  },
+  "on_phase": {
+    "forefooting_arm_raising_start": "Začíname cvičiť prednožovaňie a zdvíhaňie rúk."
+  }
+}

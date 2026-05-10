@@ -1,0 +1,42 @@
+{
+  "on_start": {
+    "default": "Začíname predpažovať. Buďeme cvičiť v stoji."
+  },
+  "on_end": {
+    "default": "Koniec cvičenia, Pripravíme sa na ďalší cvik."
+  },
+  "on_warning": {
+    "Base_pos": "Prosím predpaž",
+    "Base_pos_back": "Vráť ruky dole",
+    "both_hands": {
+      "Predpazene_ruky_vysoko_a_odseba": "Posuň ruky nižšie na vodorovnu polohu a bližšie k sebe.",
+      "Predpazene_ruky_vysoko_a_nespravne": "Daj ruky nižšie na vodorovnu úroveň a do správnej polohy.",
+      "Predpazene_ruky_vysoko": "Skús ruky posunúť nižšie na vodorovnu polohu.",
+      "Predpazene_ruky_nizko_a_odseba": "Skús ruky posunúť vyššie na vodorovnu polohu a priblížiť ich k sebe.",
+      "Predpazene_ruky_nizko_a_nespravne": "Daj ruky vyššie na vodorovnu úroveň a do správnej polohy.",
+      "Predpazene_ruky_nizko": "Skús ruky posunúť vyššie na vodorvnu polohu.",
+      "Predpazene_ruky_zle": "Predpaž ruky do správnej polohy.",
+      "Upazene_ruky_priliz_od_seba": "Daj ruky na vodorovnu úroveň a do správnej polohy.",
+      "Predpazovanie_nie_je_zapazovanie": "Ruky majú byť predpažené dopredu, a nie dozadu."
+    },
+    "right_hand": {
+      "Prava_ruka_vysoko_a_od_tela": "Pravú ruku daj trošku nižšie a bližšie k ľavej ruke.",
+      "Prava_ruka_vysoko": "Pravú ruku skús dať o trochu nižšie.",
+      "Prava_ruka_nizko_a_od_tela": "Pravú ruku zdvihni trochu vyššie a bližšie k ľavej ruke.",
+      "Prava_ruka_nizko": "Daj pravú ruku trošku vyššie.",
+      "Prava_ruka_od_tela": "Pravú ruku priblíž viac k ľavej ruke."
+    },
+    "left_hand": {
+      "Lava_ruka_vysoko_a_od_tela": "Ľavú ruku daj trošku nižšie a bližšie k pravej ruke.",
+      "Lava_ruka_vysoko": "Ľavú ruku skús dať o trochu nižšie.",
+      "Lava_ruka_nizko_a_od_tela": "Ľavú ruku zdvihni trochu vyššie a bližšie k pravej ruke.",
+      "Lava_ruka_nizko": "Zdvihni ľavú ruku trošku vyššie.",
+      "Lava_ruka_od_tela": "Ľavú ruku priblíž viac k pravej ruke."
+    },
+    "default": "Skús lepšie predpažiť."
+  },
+  "on_phase": {
+    "phase1": "Predpaž.",
+    "phase2": "Pripaž."
+  }
+}

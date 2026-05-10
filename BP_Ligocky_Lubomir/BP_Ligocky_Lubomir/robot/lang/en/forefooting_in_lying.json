@@ -1,0 +1,37 @@
+{
+  "on_start": {
+    "default": "Lie on your back and stretch your arms above your head."
+  },
+  "on_end": {
+    "default": "End of exercise, let's get ready for the next exercise."
+  },
+  "on_warning": {
+    "reverse_pose": "You raised the opposite leg.",
+    "wrong_pose": "You are doing the exercise wrong.",
+    "wrong_lift": "You are lifting the wrong leg.",
+    "base_pose_1": "Please raise your right leg",
+    "base_pose_2": "Please raise your left leg ",
+
+    "raised_both_hands": "Put your raised hands down.",
+    "raised_left_hand": "Put your raised left hand down.",
+    "raised_right_hand": "Put your raised right hand down.",
+    "Iba_prava_noha_nizko": "Extend your right leg upwards more.",
+    "Iba_prava_noha_daleko": "Your right leg is tilted too far towards your head, turn it upwards",
+    "Iba_lava_ruka_nizko": "Extend your left arm upwards more.",
+    "Iba_lava_ruka_daleko": "Your left hand is tilted too far towards your head, turn it upwards.",
+    "Iba_lava_noha_nizko": "Extend your left leg upwards more.",
+    "Iba_lava_noha_daleko": "Your left leg is tilted too far towards your head, turn it upwards.",
+    "Iba_prava_ruka_nizko": "Extend your right arm upwards more.",
+    "Iba_prava_ruka_daleko": "Your right hand is tilted too far towards your head, turn it upwards.",
+    "Ruka_a_noha_nizko": "Turn your outstretched arm and leg more upwards.",
+    "Ruka_a_noha_daleko": "The extended arm and leg are too far towards your head, move them further up.",
+    "Prava_noha_daleko_a_lava_ruka_nizko": "You do not keep your outstretched leg and arm in a perpendicular position.",
+    "Prava_noha_nizko_a_lava_ruka_daleko": "You do not keep your outstretched leg and arm in a perpendicular position.",
+    "Prava_ruka_nizko_a_lava_noha_daleko": "You do not keep your outstretched leg and arm in a perpendicular position.",
+    "Prava_ruka_daleko_a_lava_noha_nizko": "You do not keep your outstretched leg and arm in a perpendicular position.",
+
+    "default": "Extend your legs upwards better."
+  },
+  "on_phase": {
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "on_start": {
+    "default": "We are starting to do forearm exercises. We will practice in standing position."
+  },
+  "on_end": {
+    "default": "End of exercise, let's get ready for the next exercise."
+  },
+  "on_warning": {
+    "Base_pos": "Raise your arms forward.",
+    "Base_pos_back": "Put your hands back down.",
+    "both_hands": {
+      "Predpazene_ruky_vysoko_a_odseba": "Move your hands forward closer to each other and lower to a horizontal position.",
+      "Predpazene_ruky_vysoko_a_nespravne": "Lower your hands to a horizontal level.",
+      "Predpazene_ruky_vysoko": "Try moving your arms lower to a horizontal position.",
+      "Predpazene_ruky_nizko_a_odseba": "Move your hands higher to a horizontal position. Bring them closer together.",
+      "Predpazene_ruky_nizko_a_nespravne": "Raise your hands to a horizontal level.",
+      "Predpazene_ruky_nizko": "Try moving your arms higher to a horizontal position.",
+      "Predpazene_ruky_zle": "Put your hands forward in the correct position.",
+      "Upazene_ruky_priliz_od_seba": "Put your hands to a horizontal level and in the correct position.",
+      "Predpazovanie_nie_je_zapazovanie": "Put your hands forward, and not backward."
+    },
+    "right_hand": {
+      "Prava_ruka_vysoko_a_od_tela": "Place your right hand a little lower and closer to your left hand.",
+      "Prava_ruka_vysoko": "Try to put your right hand a little lower.",
+      "Prava_ruka_nizko_a_od_tela": "Raise your right hand a little higher and closer to your left hand.",
+      "Prava_ruka_nizko": "Put your right hand a little higher.",
+      "Prava_ruka_od_tela": "Bring your right hand closer to your left hand."
+    },
+    "left_hand": {
+      "Lava_ruka_vysoko_a_od_tela": "Place your left hand a little lower and closer to your right hand.",
+      "Lava_ruka_vysoko": "Try placing your left hand a little lower.",
+      "Lava_ruka_nizko_a_od_tela": "Raise your left hand a little higher and closer to your right hand.",
+      "Lava_ruka_nizko": "Raise your left hand a little higher.",
+      "Lava_ruka_od_tela": "Bring your left hand closer to your right hand."
+    },
+    "default": "Try to hold your arm better."
+  },
+  "on_phase": {
+    "phase1": "Raise your arms forward.",
+    "phase2": "Put your hands back down."
+  }
+}

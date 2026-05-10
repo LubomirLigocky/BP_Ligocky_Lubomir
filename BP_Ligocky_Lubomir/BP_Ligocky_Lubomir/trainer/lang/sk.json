@@ -1,0 +1,41 @@
+{
+  "title": "Cvičenie s robotom NAO",
+  "connection": {
+    "no_connection": "Žiadne spojenie"
+  },
+  "exercise_phases": {
+    "not_launched": "Cvičenie ešte nezačalo"
+  },
+  "conf_dialog": {
+    "physical_properties": "Fyzická",
+    "virtual_robot_ip": "Virtuálna IP robota",
+    "server_port": "Port servera",
+    "physical_robot_ip": "Fyzická IP robota",
+    "exercise_duration": "Trvanie cvičenia",
+    "male": "Muž",
+    "female": "Žena",
+    "server_ip": "IP Servera",
+    "participant_gender": "Participant gender"
+  },
+
+  "ui_buttons": {
+    "finish": "Koniec",
+    "time": "\u010cas:",
+    "distance": "Vzdialenos\u0165:",
+    "number_repetitions": "Po\u010det opakovan\u00ed:",
+    "camera": "Kamera",
+    "leg_lifting": "Zdv\u00edhanie n\u00f4h + ruky pri tele",
+    "predpazovanie": "Predpa\u017eovanie",
+    "upazovanie": "Upa\u017eovanie",
+    "squats": "Drepy",
+    "configuration": "Konfigur\u00e1cia",
+    "weaving_arms_in_sitting": "V sede kruzenie rukami",
+    "weaving_arms_in_standing": "V stoji kruzenie rukami",
+    "raising_feets_rozpazovanie": "Zdv\u00edhanie n\u00f4h + rozpa\u017eenie",
+    "knee_lifting_predpazovanie": "Zdv\u00edhanie kolien + predpa\u017eovanie",
+    "knee_lifting_rozpazovanie": "Zdv\u00edhanie kolien + rozpa\u017eovanie",
+    "raising_feets_hands_up": "",
+    "sitting_raising_hands_predpazovanie": "Zdv\u00edhanie n\u00f4h + predpa\u017eovanie",
+    "main_title": "Main title"
+  }
+}

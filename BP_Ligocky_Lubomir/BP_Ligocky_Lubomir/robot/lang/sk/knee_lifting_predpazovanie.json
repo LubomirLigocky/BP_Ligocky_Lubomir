@@ -1,0 +1,98 @@
+{
+  "on_start": {
+    "default": "Začíname zdvíhať kolená na stoličke s predpažovaňím. Sadňi si na stoličku."
+  },
+  "on_end": {
+    "default": "Koniec cvičenia, Pripravíme sa na ďalší cvik."
+  },
+  "on_warning": {
+    "Base_pos": "",
+    "Base_pos_back": "",
+    "ForefootingPred_a_zdvihni_pravu_nohu": "Zdvihniťe pravé koleno.",
+    "ForefootingPred_a_zdvihni_lavu_nohu": "Zdvihniťe ľavé koleno.",
+    "In_Base_pos_right": "Predpažťe ruky a zdvihniťe pravé koleno.",
+    "In_Base_pos_left": "Predpažťe ruky a zdvihniťe ľavé koleno.",
+    "both_hands": {
+      "Predpazene_ruky_vysoko_a_odseba": {
+        "leg_wrong": "Potom posuň ruky nižšie na vodorovnú polohu a bližšie k sebe.",
+        "leg_right": "Posuň ruky nižšie na vodorovnú polohu a bližšie k sebe."
+      },
+      "Predpazene_ruky_vysoko_a_nespravne": {
+        "leg_wrong": "Potom daj ruky nižšie na vodorovnú pozíciu a do správnej polohy.",
+        "leg_right": "Daj ruky nižšie na vodorovnú polohu a do správnej polohy."
+      },
+      "Predpazene_ruky_vysoko": {
+        "leg_wrong": "Zároveň skús ruky posuň nižšie na vodorovnú polohu.",
+        "leg_right": "Skús ruky posuň nižšie na vodorovnú polohu."
+      },
+      "Predpazene_ruky_nizko_a_odseba": {
+        "leg_wrong": "Zároveň skús ruky posuň vyššie na vodorovnú polohu a priblížiť ich bližšie k sebe.",
+        "leg_right": "Skús ruky posuň vyššie na vodorovnú polohu a priblížiť ich k sebe."
+      },
+      "Predpazene_ruky_nizko_a_nespravne": {
+        "leg_wrong": "Tiež daj ruky vyššie na vodorovnú polohu a do správnej polohy.",
+        "leg_right": "Daj ruky vyššie na vodorovnú polohu a do správnej polohy."
+      },
+      "Predpazene_ruky_nizko": {
+        "leg_wrong": "Zároveň daj ruky vyššie na vodorovnú pozíciu a do správnej polohy.",
+        "leg_right": "Skúste ruky posuň vyššie na vodorovnú polohu."
+      },
+      "Predpazene_ruky_priliz_od_seba": {
+        "leg_wrong": "Tiež priblíž ruky trochu bližšie k sebe.",
+        "leg_right": "Priblíž ruky trochu bližšie k sebe."
+      },
+      "Predpazene_ruky_zle": {
+        "leg_wrong": "Tiež predpaž ruky na vodorovnú polohu.",
+        "leg_right": "Predpaž ruky na vodorovnú polohu."
+      }
+    },
+    "right_hand": {
+      "Prava_ruka_vysoko_a_od_tela": {
+        "leg_wrong": "Potom pravú ruku daj o trošku nižšie a bližšie k ľavej ruke.",
+        "leg_right": "Pravú ruku daj trošku nižšie a bližšie k ľavej ruke."
+      },
+      "Prava_ruka_vysoko": {
+        "leg_wrong": "Potom pravú ruku skúste dať o trochu nižšie.",
+        "leg_right": "Pravú ruku skúste dať o trochu nižšie."
+      },
+      "Prava_ruka_nizko_a_od_tela": {
+        "leg_wrong": "Potom pravú ruku zdvihňi trochu vyššie a bližšie k ľavej ruke.",
+        "leg_right": "Pravú ruku zdvihňi trochu vyššie a bližšie k ľavej ruke."
+      },
+      "Prava_ruka_nizko": {
+        "leg_wrong": "Zároveň daj pravú ruku trošku vyššie.",
+        "leg_right": "Dajťe pravú ruku trošku vyššie."
+      },
+      "Prava_ruka_od_tela": {
+        "leg_wrong": "Zároveň pravú ruku priblíž viac k ľavej ruke.",
+        "leg_right": "Pravú ruku priblíž viac k ľavej ruke."
+      }
+    },
+    "left_hand": {
+      "Lava_ruka_vysoko_a_od_tela": {
+        "leg_wrong": "Potom ľavú ruku daj o trošku nižšie a bližšie k pravej ruke.",
+        "leg_right": "Ľavú ruku daj trošku nižšie a bližšie k pravej ruke."
+      },
+      "Lava_ruka_vysoko": {
+        "leg_wrong": "Potom ľavú ruku skús dať o trochu nižšie.",
+        "leg_right": "Ľavú ruku skús dať o trochu nižšie."
+      },
+      "Lava_ruka_nizko_a_od_tela": {
+        "leg_wrong": "Potom ľavú ruku zdvihňi o trochu vyššie a bližšie k pravej ruke.",
+        "leg_right": "Ľavú ruku zdvihňi trochu vyššie a bližšie k pravej ruke."
+      },
+      "Lava_ruka_nizko": {
+        "leg_wrong": "Zároveň zdvihňi ľavú ruku trošku vyššie.",
+        "leg_right": "Zdvihnite ľavú ruku trošku vyššie."
+      },
+      "Lava_ruka_od_tela": {
+        "leg_wrong": "Zároveň ľavú ruku priblíž viac k pravej ruke.",
+        "leg_right": "Ľavú ruku priblíž viac k pravej ruke."
+      }
+    },
+    "default": "Skús lepšie upažiť.",
+    "error": "Skús tiež lepšie predpažiť. Dbaj na to aby ruky boli vodorovné s tvojími ramenami."
+  },
+  "on_phase": {
+  }
+}

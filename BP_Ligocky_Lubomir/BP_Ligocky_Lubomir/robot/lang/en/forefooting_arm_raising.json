@@ -1,0 +1,15 @@
+{
+  "on_start": {
+    "default": "We start practicing leg raises and arm raises."
+  },
+  "on_end": {
+    "default": "End of exercise, let's get ready for the next exercise.",
+    "after_termination": "End of the leg extension and arm raising exercise."
+  },
+  "on_warning": {
+    "default": "Try to raise legs and arms better."
+  },
+  "on_phase": {
+    "forefooting_arm_raising_start": "We start practicing leg raises and arm raises."
+  }
+}

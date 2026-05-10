@@ -1,0 +1,18 @@
+{
+  "on_start": {
+    "default": "We are starting to practice left knee raises."
+  },
+  "on_end": {
+    "default": "Great. You have done it!"
+  },
+  "on_warning": {
+    "default": "Try to lift your left leg better."
+  },
+  "on_phase": {
+    "lift_left_leg_start": "We are starting to practice left knee raises excercise",
+    "lift_left_leg_end": "End of knee lifts on the left leg. Now we're going to take a fifteen-second break.",
+    "left_leg_down": "Lift your left knee and place your right hand on your hip.",
+    "repetition_phase": "We will repeat exercise again.",
+    "left_leg_up": "Place your foot on the ground and your right hand on your shoulder."
+  }
+}

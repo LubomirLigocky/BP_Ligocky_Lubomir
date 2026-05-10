@@ -1,0 +1,42 @@
+{
+  "on_start": {
+    "default": "Začíname zdvíhať nohy na stoličke s upažovaňím. Sadňi si na stoličku."
+  },
+  "on_end": {
+    "default": "Super. Zvládľi sme to na jednotku."
+  },
+  "on_warning": {
+    "Base_pos": "",
+    "Base_pos_back": "",
+    "In_Base_pos_left": "Rozpaž ruky a zdvihňi ľavú nohu.",
+    "In_Base_pos_right": "Rozpaž ruky a zdvihňi pravú nohu.",
+    "tpose_arms_above": {
+      "ForefootingRoz_a_zdvihni_pravu_nohu": "Posuň upažené ruky nižšie na vodorovnú polohu a zdvihňi pravú nohu.",
+      "ForefootingRoz_a_zdvihni_lavu_nohu": "Posuň upažené ruky nižšie na vodorovnú polohu a zdvihňi ľavú nohu.",
+      "default": "Posuň upažené ruky nižšie na vodorovnu polohu."
+    },
+    "tpose_arms_below": {
+      "ForefootingRoz_a_zdvihni_pravu_nohu": "Posuň upažené ruky vyššie na vodorovnú polohu a zdvihňi pravú nohu.",
+      "ForefootingRoz_a_zdvihni_lavu_nohu": "Posuň upažené ruky vyššie na vodorovnú polohu a zdvihňi ľavú nohu.",
+      "default": "Posuň upažené ruky vyššie na vodorovnú polohu."
+    },
+    "tpose_arms_wrong": {
+      "ForefootingRoz_a_zdvihni_pravu_nohu": "Skús rozpažiť vodorovne a zdvihňi pravú nohu.",
+      "ForefootingRoz_a_zdvihni_lavu_nohu": "Skús rozpažiť vodorovne a zdvihňi ľavú nohu.",
+      "default": "Skús rozpažiť vodorovne."
+    },
+    "ForefootingRoz_a_zdvihni_lavu_nohu": "Zdvihňi ľavú nohu.",
+    "ForefootingRoz_a_zdvihni_pravu_nohu": "Zdvihňi pravú nohu.",
+    "both_hands": {
+    },
+    "right_hand": {
+    },
+    "left_hand": {
+    },
+    "default": "Skús lepšie upažiť."
+  },
+  "on_phase": {
+    "forefooting_rozpazovanie_en": "Koniec cvičenia, Pripravíme sa na ďalší cvik.",
+    "forefooting_rozpazovanie_start": "Začíname zdvíhať nohy na stoličke s upažovaňím. Sadňi si na stoličku."
+  }
+}

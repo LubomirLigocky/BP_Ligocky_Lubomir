@@ -1,0 +1,20 @@
+{
+  "template": {
+    "0": "Pri cvičení nezabudňi plynule dýchať.",
+    "1": "Jeden.",
+    "2": "Dva.",
+    "3": "Tri, ako sa zatial cítiš?",
+    "4": "Štyri.",
+    "5": "Päť.",
+    "6": "Šesť.",
+    "7": "Sedem, už len tri.",
+    "8": "Osem, už len dva.",
+    "9": "Ďeveť, ešťe jeden a máme to.",
+    "10": "Ďesať, super!"
+  },
+  "exercise_names": {
+      "predpazovanie": "predpazovanie",
+      "upazovanie": "upazovanie",
+      "SquatExercise": "SquatExercise"
+  }
+}

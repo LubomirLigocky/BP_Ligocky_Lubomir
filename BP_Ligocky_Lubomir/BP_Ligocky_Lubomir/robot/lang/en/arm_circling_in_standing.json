@@ -1,0 +1,19 @@
+{
+  "on_start": {
+    "default": "We are starting to practice arm circling in standing position, repeat after me."
+  },
+  "on_end": {
+    "default": "Great. You have done it!"
+  },
+  "on_warning": {
+    "ZLE_hore": "You don't have your arms outstretched above your head.",
+    "Base_hore": "Please put your hands up.",
+    "ZLE_dole": "Put your hands down",
+    "default": ""
+  },
+  "on_phase": {
+    "arm_circling_down": "Turn your hands down.",
+    "arm_circling_up": "Raise your arms above your head.",
+    "last": "For the last time."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "on_start": {
+    "default": "Začíname cvičiť krúženie rukami v stoji, opakuj po mňe"
+  },
+  "on_end": {
+    "default": "Koniec cvičenia, Pripravíme sa na ďalší cvik."
+  },
+  "on_warning": {
+    "ZLE_hore": "Nemáš vystreté ruky nad hlavou",
+    "Base_hore": "Prosím vpaž ruky hore",
+    "ZLE_dole": "Polož ruky dole",
+    "default": "Skús lepšie upažiť."
+  },
+  "on_phase": {
+    "arm_sit_circling_down": "Otoč ruky dole",
+    "arm_sit_circling_up": "Vzpaž ruky nad hlavu",
+    "last": "Posledný krát"
+  }
+}

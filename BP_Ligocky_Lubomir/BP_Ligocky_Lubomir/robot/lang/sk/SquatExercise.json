@@ -1,0 +1,45 @@
+{
+  "on_start": {
+    "default": "Začíname cvičiť, drepy. Cvičiť začíname v stoji."
+  },
+  "on_end": {
+    "default": "Výborne, drepy máme za sebou",
+    "end1_part1": "Ďakujeme za spoluprácu,",
+    "end1_part2": "budeme sa ťešiť aj na budúce.",
+    "end2_part1": "Ďakujem, že sme spolu cvičili,",
+    "end2_part2": "Ňech ťi to vydrží."
+  },
+  "on_warning": {
+    "Base_pos": "Prosím, spravťe drep",
+    "Base_pos_back": "Už sa postav",
+    "squat_rozpaz": "Prosím, o trošku posuň choďidlá od seba",
+    "squat_rozpaz_oprava": "Výborne, teraz po mňe opakuj.",
+    "squat_zly_drep": "Ešťe nižšie.",
+    "both_hands": {
+      "V_drepe_predpazene_ruky_vysoko_a_odseba": "Predpaž ruky viacej k sebe a do nižšej polohy.",
+      "V_drepe_predpazene_ruky_vysoko": "Predpaž ruky do nižšej polohy.",
+      "V_drepe_predpazene_ruky_nizko_a_odseba": "Predpaž ruky viacej k sebe a do vyššiej polohy.",
+      "V_drepe_predpazene_ruky_nizko": "Predpaž ruky do vyššiej polohy.",
+      "V_drepe_predpazene_ruky_zle": "Predpažené ruky predpaž na vodorovnú polohu na úroveň tvojích ramien.",
+      "V_drepe_predpazene_ruky_priliz_od_seba": "Predpažené ruky priblíž viacej k sebe."
+    },
+    "right_hand": {
+      "V_drepe_prava_ruka_vysoko": "Daj pravú ruku nižšie.",
+      "V_drepe_prava_ruka_nizko": "Daj pravú ruku vyššie.",
+      "V_drepe_prava_ruka_nespravne": "Daj pravú ruku bližšie k lavej."
+    },
+    "left_hand": {
+      "V_drepe_lava_ruka_vysoko": "Daj ľavú ruku nižšie.",
+      "V_drepe_lava_ruka_nizko": "Daj ľavú ruku vyššie.",
+      "V_drepe_lava_ruka_nespravne": "Daj ľavú ruku bližšie k pravej.",
+      "default": "Niečo robíž zle."
+    },
+    "default": "Skús lepšie predpažiť."
+  },
+  "on_phase": {
+    "phase1": "Urob podrep a predpaž",
+    "phase1.1": "Podrep s nádychom",
+    "phase2": "Postav sa s výdychom",
+    "phase2.1": "Postav sa"
+  }
+}

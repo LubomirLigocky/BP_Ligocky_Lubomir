@@ -1,0 +1,96 @@
+{
+  "on_start": {
+    "default": "We are starting to do forearm exercises. We will practice in sitting. Sit on the chair."
+  },
+  "on_end": {
+    "default": "End of exercise, let's get ready for the next exercise."
+  },
+  "on_warning": {
+    "ForefootingPred_a_zdvihni_pravu_nohu": "Lift your right leg.",
+    "ForefootingPred_a_zdvihni_lavu_nohu": "Lift your left leg.",
+    "In_Base_pos_right": "Do forearm and lift your right leg.",
+    "In_Base_pos_left": "Do forearm and lift your left leg.",
+    "both_hands": {
+      "Predpazene_ruky_vysoko_a_odseba": {
+        "leg_wrong": "Then move your hands down to a horizontal position and closer to each other.",
+        "leg_right": "Move your hands down to a horizontal position and closer to each other."
+      },
+      "Predpazene_ruky_vysoko_a_nespravne": {
+        "leg_wrong": "Then move your hands down to a horizontal position and into the correct position.",
+        "leg_right": "Move your hands down to a horizontal position."
+      },
+      "Predpazene_ruky_vysoko": {
+        "leg_wrong": "At the same time, move your hands down to a horizontal position.",
+        "leg_right": "Try to move your hands down to a horizontal position."
+      },
+      "Predpazene_ruky_nizko_a_odseba": {
+        "leg_wrong": "At the same time, try to move your clasped hands up to a horizontal position and bring them closer together.",
+        "leg_right": "Try to move your clasped hands up to a horizontal position and bring them closer together"
+      },
+      "Predpazene_ruky_nizko_a_nespravne": {
+        "leg_wrong": "Again, move your clasped hands up to a horizontal position.",
+        "leg_right": "Again, move your clasped hands up to a horizontal position."
+      },
+      "Predpazene_ruky_nizko": {
+        "leg_wrong": "At the same time, move your clasped hands up to a horizontal position.",
+        "leg_right": "Try to move your clasped hands up to a horizontal position."
+      },
+      "Predpazene_ruky_priliz_od_seba": {
+        "leg_wrong": "Again bring your forearmed hands closer together",
+        "leg_right": "Bring your hands a little closer together."
+      },
+      "Predpazene_ruky_zle": {
+        "leg_wrong": "Also, bring your forearm to a horizontal position.",
+        "leg_right": "Forearm to a horizontal position."
+      }
+    },
+    "right_hand": {
+      "Prava_ruka_vysoko_a_od_tela": {
+        "leg_wrong": "Then place your right hand a little lower and closer to your left hand.",
+        "leg_right": "Place your right hand a little lower and closer to your left hand."
+      },
+      "Prava_ruka_vysoko": {
+        "leg_wrong": "Then try to put your right hand a little lower.",
+        "leg_right": "Try to put your right hand a little lower."
+      },
+      "Prava_ruka_nizko_a_od_tela": {
+        "leg_wrong": "Potom pravú ruku zdvihňi trochu vyššie a bližšie k ľavej ruke.",
+        "leg_right": "Pravú ruku zdvihňi trochu vyššie a bližšie k ľavej ruke."
+      },
+      "Prava_ruka_nizko": {
+        "leg_wrong": "Zároveň daj pravú ruku trošku vyššie.",
+        "leg_right": "Dajťe pravú ruku trošku vyššie."
+      },
+      "Prava_ruka_od_tela": {
+        "leg_wrong": "Zároveň pravú ruku priblíž viac k ľavej ruke.",
+        "leg_right": "Pravú ruku priblíž viac k ľavej ruke."
+      }
+    },
+    "left_hand": {
+      "Lava_ruka_vysoko_a_od_tela": {
+        "leg_wrong": "Then place your left hand a little lower and closer to your right hand.",
+        "leg_right": "Place your left hand a little lower and closer to your right hand."
+      },
+      "Lava_ruka_vysoko": {
+        "leg_wrong": "Then try to put your left hand a little lower.",
+        "leg_right": "Try putting your left hand a little lower."
+      },
+      "Lava_ruka_nizko_a_od_tela": {
+        "leg_wrong": "Then raise your left hand a little higher and closer to your right hand.",
+        "leg_right": "Raise your left hand a little higher and closer to your right hand."
+      },
+      "Lava_ruka_nizko": {
+        "leg_wrong": "At the same time, raise your left hand a little higher.",
+        "leg_right": "Raise your left hand a little higher."
+      },
+      "Lava_ruka_od_tela": {
+        "leg_wrong": "At the same time, bring your left hand closer to your right hand.",
+        "leg_right": "Bring your left hand closer to your right hand."
+      }
+    },
+    "default": "Try to do better forearm raises. ",
+    "error": "Also try to do better forearm raises. Make sure your arms are horizontal to your shoulders."
+  },
+  "on_phase": {
+  }
+}

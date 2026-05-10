@@ -1,0 +1,14 @@
+{
+  "on_start": {
+    "default": "We are starting to practice leg raises on a chair."
+  },
+  "on_end": {
+    "default": "End of the leg extension exercise on the chair. Let's prepare for the next exercise."
+  },
+  "on_warning": {
+    "default": "Try to raise leg on a chair better."
+  },
+  "on_phase": {
+    "forefooting_arm_raising_start": "We are starting to practice leg raises on a chair."
+  }
+}

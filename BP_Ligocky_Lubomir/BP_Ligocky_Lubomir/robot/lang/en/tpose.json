@@ -1,0 +1,28 @@
+{
+  "on_start": {
+    "default": "Beginning of exercise, Lateral raises"
+  },
+  "on_end": {
+    "default": "Great. You have done it!"
+  },
+  "on_warning": {
+    "Base_pos": "Please put your hands from each other to horizontal position",
+    "Base_pos_back": "Please put your hands down.",
+    "both_hands": {
+      "tpose_arms_above": "Move your hands down to a horizontal position.",
+      "tpose_arms_below": "Move your clasped hands up to a horizontal position.",
+      "tpose_arms_wrong": "Try to place your arms horizontally.",
+      "Foreground_hands_pos": "Extend your arms horizontally to the sides, not forward."
+    },
+    "right_hand": {
+    },
+    "left_hand": {
+    },
+    "default": "Try to put your hands to horizontal position better."
+  },
+  "on_phase": {
+    "phase1": "Put your hands horizontally from each other up.",
+    "phase2": "Put your hands down.",
+    "last": "Last time."
+  }
+}

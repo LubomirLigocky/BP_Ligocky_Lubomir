@@ -1,0 +1,45 @@
+{
+  "on_start": {
+    "default": "We start exercising, squats. We start exercising standing."
+  },
+  "on_end": {
+    "default": "Great, we're done with the squats.",
+    "end1_part1": "Thank you for your cooperation,",
+    "end1_part2": "we will look forward to our future training.",
+    "end2_part1": "Thank you for practicing together,",
+    "end2_part2": "keep exercising."
+  },
+  "on_warning": {
+    "Base_pos": "Please do a squat.",
+    "Base_pos_back": "Stand up now.",
+    "squat_rozpaz": "Please move your feet apart a little.",
+    "squat_rozpaz_oprava": "Excellent, now repeat after me.",
+    "squat_zly_drep": "Even lower.",
+    "both_hands": {
+      "V_drepe_predpazene_ruky_vysoko_a_odseba": "Bring your arms closer together and into a lower position.",
+      "V_drepe_predpazene_ruky_vysoko": "Lower your arm.",
+      "V_drepe_predpazene_ruky_nizko_a_odseba": "Bring your arms closer together and into a higher position.",
+      "V_drepe_predpazene_ruky_nizko": "Raise your arms to a higher position.",
+      "V_drepe_predpazene_ruky_zle": "Raise your arms to a horizontal position at the level of your shoulders.",
+      "V_drepe_predpazene_ruky_priliz_od_seba": "Bring your arms closer together."
+    },
+    "right_hand": {
+      "V_drepe_prava_ruka_vysoko": "Put your right hand lower.",
+      "V_drepe_prava_ruka_nizko": "Put your right hand higher.",
+      "V_drepe_prava_ruka_nespravne": "Bring your right hand closer to your left."
+    },
+    "left_hand": {
+      "V_drepe_lava_ruka_vysoko": "Put your left hand lower.",
+      "V_drepe_lava_ruka_nizko": "Put your left hand higher.",
+      "V_drepe_lava_ruka_nespravne": "Bring your left hand closer to your right.",
+      "default": "You're doing something wrong."
+    },
+    "default": "Try to hold your arm better."
+  },
+  "on_phase": {
+    "phase1": "Do a squat and put your arms forward.",
+    "phase1.1": "Squat with a breath.",
+    "phase2": "Stand up with an exhale.",
+    "phase2.1": "Stand up"
+  }
+}

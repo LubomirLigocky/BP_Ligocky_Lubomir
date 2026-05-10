@@ -1,0 +1,28 @@
+{
+  "on_start": {
+    "default": "Začiatok cviku, upažovanie"
+  },
+  "on_end": {
+    "default": "Super. Zvládľi sme to na jednotku."
+  },
+  "on_warning": {
+    "Base_pos": "Prosím upaž ruky",
+    "Base_pos_back": "Prosím pripaž ruky",
+    "both_hands": {
+      "tpose_arms_above": "Posuň upažené ruky nižšie na vodorovnu polohu.",
+      "tpose_arms_below": "Posuň upažené ruky vyššie na vodorovnu polohu.",
+      "tpose_arms_wrong": "Skús upažiť ruky vodorovne.",
+      "Foreground_hands_pos": "Vystri ruky vodorovne na strany, a nie do predu."
+    },
+    "right_hand": {
+    },
+    "left_hand": {
+    },
+    "default": "Skús lepšie upažiť."
+  },
+  "on_phase": {
+    "phase1": "Upaž ruky",
+    "phase2": "Pripaž ruky.",
+    "last": "Posledný krát"
+  }
+}

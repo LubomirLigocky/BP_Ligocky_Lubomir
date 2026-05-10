@@ -1,0 +1,42 @@
+{
+  "title": "Robot exercise",
+  "connection": {
+    "no_connection": "No connection"
+  },
+  "exercise_phases": {
+    "not_launched": "The exercise hasn't started yet."
+  },
+  "conf_dialog": {
+    "physical_properties": "Physical",
+    "virtual_robot_ip": "Virtual Robot IP",
+    "server_port": "Server port",
+    "physical_robot_ip": "Physical Robot IP",
+    "exercise_duration": "Exercise duration",
+    "male": "Male",
+    "female": "Female",
+    "server_ip": "Server IP",
+    "participant_gender": "Participant gender"
+  },
+
+  "ui_buttons": {
+    "finish": "Termination",
+    "time": "Time:",
+    "distance": "Distance:",
+    "number_repetitions": "Repetitions:",
+    "camera": "Camera",
+    "leg_lifting": "Feet lifting + hands near body",
+    "predpazovanie": "Arm forward stretching",
+    "upazovanie": "Lateral raise",
+    "squats": "Squats",
+    "configuration": "Configuration",
+    "weaving_arms_in_sitting": "Hands circling in sitting",
+    "weaving_arms_in_standing": "Weaving arms in standing",
+    "raising_feets_rozpazovanie": "Feet lifting + Lateral raise",
+    "knee_lifting_predpazovanie": "Knee raising + Arm forward stretching",
+    "knee_lifting_rozpazovanie": "Knee raising + Lateral raise",
+    "raising_feets_hands_up": "Raising feets + hands up",
+    "sitting_raising_hands": "Sitting and raising hands",
+    "sitting_raising_hands_predpazovanie": "Feet lifting + Arm forward stretching",
+    "main_title": "Main title"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "on_start": {
+    "default": "We start by raising our legs on a chair with lateral raises. Sit on a chair."
+  },
+  "on_end": {
+    "default": "Great. You have done it!"
+  },
+  "on_warning": {
+    "In_Base_pos_left": "Please put your hands from each other to horizontal position and lift your left leg.",
+    "In_Base_pos_right": "Please put your hands from each other to horizontal position and lift your right leg.",
+    "tpose_arms_above": {
+      "ForefootingRoz_a_zdvihni_pravu_nohu": "Move your hands down to a horizontal position and lift your right leg.",
+      "ForefootingRoz_a_zdvihni_lavu_nohu": "Move your hands down to a horizontal position and lift your left leg.",
+      "default": "Move your hands down to a horizontal position."
+    },
+    "tpose_arms_below": {
+      "ForefootingRoz_a_zdvihni_pravu_nohu": "Move your clasped hands up to a horizontal position and lift your right leg.",
+      "ForefootingRoz_a_zdvihni_lavu_nohu": "Move your clasped hands up to a horizontal position and lift your left leg.",
+      "default": "Move your clasped hands up to a horizontal position."
+    },
+    "tpose_arms_wrong": {
+      "ForefootingRoz_a_zdvihni_pravu_nohu": "Try to place your arms horizontally and lift your right leg.",
+      "ForefootingRoz_a_zdvihni_lavu_nohu": "Try to place your arms horizontally and lift your left leg.",
+      "default": "Try to place your arms horizontally."
+    },
+    "ForefootingRoz_a_zdvihni_lavu_nohu": "Lift your left leg.",
+    "ForefootingRoz_a_zdvihni_pravu_nohu": "Lift your right leg.",
+    "default": "Try to put your hands to horizontal position better."
+  },
+  "on_phase": {
+    "forefooting_rozpazovanie_en": "End of exercise, let's get ready for the next exercise.",
+    "forefooting_rozpazovanie_start": "We start by raising our legs on a chair with lateral raises. Sit on a chair."
+  }
+}

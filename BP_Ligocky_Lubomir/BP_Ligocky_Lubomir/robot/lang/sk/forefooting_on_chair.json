@@ -1,0 +1,14 @@
+{
+  "on_start": {
+    "default": "Začíname cvičiť prednožovaňie na stoličke."
+  },
+  "on_end": {
+    "default": "Koniec cviku prednožovaňia na stoličke. Pripravíme sa na ďalší cvik.",
+  },
+  "on_warning": {
+    "default": "Skús lepšie upažiť."
+  },
+  "on_phase": {
+    "forefooting_arm_raising_start": "Začíname cvičiť prednožovaňie a zdvíhaňie rúk."
+  }
+}

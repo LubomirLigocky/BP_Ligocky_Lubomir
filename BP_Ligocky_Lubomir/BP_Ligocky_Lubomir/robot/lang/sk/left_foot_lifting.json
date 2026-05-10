@@ -1,0 +1,18 @@
+{
+  "on_start": {
+    "default": "Začiatok cviku, zdvíhanie nôh"
+  },
+  "on_end": {
+    "default": "Super. Zvládľi sme to na jednotku."
+  },
+  "on_warning": {
+    "default": "Skús lepšie zdvihnut lavu nohu."
+  },
+  "on_phase": {
+    "lift_left_leg_start": "Prejdiťe na cvik dva, dvíhaňie nôh.",
+    "lift_left_leg_end": "Koniec dvíhaňia nóh. Teraz si dáme petnásťsekundovú prestávku.",
+    "left_leg_down": "Zdvihňite ľavú nohu a pravú ruku upažťe",
+    "repetition_phase": "Zopakujeme znovu",
+    "left_leg_up": "Poľožťe nohu na zem a pravú ruku pripažťe"
+  }
+}

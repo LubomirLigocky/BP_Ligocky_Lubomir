@@ -1,0 +1,42 @@
+{
+  "on_start": {
+    "default": "Začíname zdvíhať kolená na stoličke s upažovaňím. Sadňi si na stoličku."
+  },
+  "on_end": {
+    "default": "Super. Zvládľi sme to na jednotku."
+  },
+  "on_warning": {
+    "Base_pos": "",
+    "Base_pos_back": "",
+    "In_Base_pos_left": "Rozpaž ruky a zdvihňi ľavé koleno.",
+    "In_Base_pos_right": "Rozpaž ruky a zdvihňi pravé koleno.",
+    "tpose_arms_above": {
+      "knee_liftingRoz_a_zdvihni_pravu_nohu": "Posuň upažené ruky nižšie na vodorovnú polohu a zdvihňi pravé koleno",
+      "knee_liftingRoz_a_zdvihni_lavu_nohu": "Posuň upažené ruky nižšie na vodorovnú polohu a zdvihňi ľavé koleno",
+      "default": "Posuň upažené ruky nižšie na vodorovnú polohu."
+    },
+    "tpose_arms_below": {
+      "knee_liftingRoz_a_zdvihni_pravu_nohu": "Posuň upažené ruky vyššie na vodorovnú polohu a zdvihňi pravé koleno.",
+      "knee_liftingRoz_a_zdvihni_lavu_nohu": "Posuň upažené ruky vyššie na vodorovnú polohu a zdvihňi ľavé koleno.",
+      "default": "Posuň upažené ruky vyššie na vodorovnú polohu."
+    },
+    "tpose_arms_wrong": {
+      "knee_liftingRoz_a_zdvihni_pravu_nohu": "Skús rozpažiť vodorovne a zdvihňi pravé koleno.",
+      "knee_liftingRoz_a_zdvihni_lavu_nohu": "Skús rozpažiť vodorovne a zdvihňi ľavé koleno.",
+      "default": "Skús rozpažiť vodorovne."
+    },
+    "knee_liftingRoz_a_zdvihni_lavu_nohu": "Zdvihňi ľavé koleno.",
+    "knee_liftingRoz_a_zdvihni_pravu_nohu": "Zdvihňi pravé koleno",
+    "both_hands": {
+    },
+    "right_hand": {
+    },
+    "left_hand": {
+    },
+    "default": "Skús lepšie upažiť."
+  },
+  "on_phase": {
+    "knee_lifting_rozpazovanie_en": "Koniec cvičenia, Pripravíme sa na ďalší cvik.",
+    "knee_lifting_rozpazovanie_start": "Začíname zdvíhať nohy na stoličke s upažovaňím. Sadňi si na stoličku."
+  }
+}
