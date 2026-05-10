@@ -1,0 +1,17 @@
+{
+    "python.analysis.extraPaths": [
+        "./robot/rozpazovanie",
+        "./robot/ruky_nad_hlavu",
+        "./robot/predpazovanie",
+        "./robot/_exercises_impl",
+        "./robot/predpazovanie_nohy_ruky",
+        "./robot/rozpazovanie_nohy_ruky",
+        "./robot/sadanie",
+        "./robot/zdvihanie_na_stolicke",
+        "./robot/vratenie_v_sede",
+        "./robot/lah",
+        "./robot/_tests",
+        "./robot/iba_zdvihanie_noh",
+        "./robot/kruzenie"
+    ]
+}

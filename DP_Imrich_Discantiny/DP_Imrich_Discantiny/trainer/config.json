@@ -1,0 +1,10 @@
+{
+    "server_ip": "127.0.0.1",
+    "server_port": "1234",
+    "virtual_robot_ip": "127.0.0.1",
+    "physical_robot_ip": "192.168.86.194",
+    "is_physical": true,
+    "enable_emotions": true,
+    "exercise_duration": "5",
+    "target_gender": "female"
+}
