@@ -33,3 +33,6 @@ typing_extensions==4.15.0
 winrt-runtime==3.2.1
 winrt-Windows.Devices.Enumeration==3.2.1
 winrt-Windows.Foundation.Collections==3.2.1
+openai
+webrtcvad
+urllib3
