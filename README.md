@@ -12,6 +12,7 @@ Toto prostredie slúži na spustenie hlavného rozhrania app.py.
 
 Klonovanie repozitára
 git clone https://github.com/LubomirLigocky/BP_Ligocky_Lubomir.git
+
 cd BP_Ligocky_Lubomir
 
 Vytvorenie virtuálneho prostredia
