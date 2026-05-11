@@ -34,7 +34,7 @@ Najskôr spustite skript na strane robota (Python 2.7 prostredie) a následne hl
 - v podadresári \trainer        python app.py
 
 # Kalibrácia senzorov 
-Počkajte na inicializáciu kamery. Uistite sa, že proband sa nachádza v zornom poli kamery (vzdialenosť cca 2,5 metra).
+Počkajte na inicializáciu kamery. Uistite sa, že sa nachádzate v zornom poli kamery (vzdialenosť cca 2,5 metra).
 
 # Interakcia 
 Akonáhle sa na obrazovke zobrazí rozhranie GUI, je to znak toho, že systém je aktívny. Hlasová komunikácia s robotom je možná okamžite. Cvičenie sa začína, keď dáte robotovi povel tým, že stlačíte niektoré z tlačidiel v GUI rozhraní.
